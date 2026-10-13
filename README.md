@@ -2413,7 +2413,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [StudiePoint AI](https://studiepoint.ai) `https://studiepoint.ai/api/mcp`
   [![StudiePoint AI MCP connector](https://glama.ai/mcp/connectors/ai.studiepoint/studie-point-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.studiepoint/studie-point-ai)
   🔓 - Search scholarships, convert African GPAs, check visas, match students, and estimate study costs.
-- [Surface](https://github.com/Surface-ops/surface) `https://nova-otter-delta-cloud.grok.me/mcp`
+- [Surface](https://nova-otter-delta-cloud.grok.me) `https://nova-otter-delta-cloud.grok.me/mcp`
   [![Surface MCP connector](https://glama.ai/mcp/connectors/me.grok.nova-otter-delta-cloud/surface/badges/score.svg)](https://glama.ai/mcp/connectors/me.grok.nova-otter-delta-cloud/surface)
   🔓 - preflight_url tool that unwraps short links and tells agents whether to fetch or skip a URL.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
